@@ -1,3 +1,3 @@
 # jos
 #Jos foundation project
-#private repo
+Just started
