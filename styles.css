@@ -26,9 +26,8 @@ html {
     border-style: solid;
     border-color: #187F92;
   }
-  .header-5 {
-    margin-left: 5%;
-  }
+ 
+  
   .home-content {
     background-color: #9da1cf;
     border-top-style: solid;
@@ -36,23 +35,25 @@ html {
 
   }
   .h3-below {
-    margin: 0px 5% 0px 0px;
     font-weight: bold;
-    padding-top: 20px;
+    margin-top: 20px;
   }
   .p0-below {
     height: 140px;
+    margin-top: 7%;
   }
-  .p-below h6{
+  .h6-below {
     text-align: center;
+    margin-top: 60px;
    font-weight: bold;
   }
   .p-in-drone {
     font-weight: bold;
   }
   .btn-below {
-    margin-left: 90%;
-    margin-bottom: 70px;
+    margin-left: 60%;
+    margin-top: 60px;
+    /* margin-bottom: 40px; */
   }
   .img-drone {
     margin-left: 0;
